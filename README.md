@@ -75,13 +75,14 @@ Understanding **why customers leave** is crucial for any business. In this proje
 
 ---
 
+## Code Provided by: shaheenaameer2003@gmail.com
+## Dataset used: (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+## Dataset name: Telco Customer Churn Dataset
+
 ##  Setup Instructions
 
 Install the required dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
-
-## Code Provided by: shaheenaameer2003@gmail.com
-## Dataset used: (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-## Dataset name: Telco Customer Churn Dataset
+pip install scikit-learn
